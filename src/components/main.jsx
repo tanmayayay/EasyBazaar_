@@ -7,10 +7,11 @@ const Home = () => {
         <div className="card bg-dark text-white border-0 mx-3">
           <img
             className="card-img img-fluid"
-            src="public/assets/new_arrivals.jpg"
+            src="public/assets/new_arrivals.jpg" 
             alt="Card"
             height={100}
           />
+ <iframe src="https://drive.google.com/file/d/13xeoJQ41KUp8UdsEPicAREHGv6Glllxo/preview" width="640" height="480" allow="autoplay"></iframe>
         </div>
       </div>
     </>
