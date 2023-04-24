@@ -11,7 +11,6 @@ const Home = () => {
             alt="Card"
             height={100}
           />
-//  <iframe src="https://drive.google.com/file/d/13xeoJQ41KUp8UdsEPicAREHGv6Glllxo/preview" width="640" height="480" allow="autoplay"></iframe>
         </div>
       </div>
     </>
