@@ -2,11 +2,6 @@
 
 Easy Bazaar is a E-commerce web application made with React.js. It is an intuitive online shopping platform which is designed to simplify the users experience by offering the users persinalized recommendations, a user friendly interface and a streamlined checkout process.
 
-
-## Demo
-
-LINK
-
 ## Features
 
 - Easy to integrate with Backend
