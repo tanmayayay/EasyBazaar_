@@ -9,7 +9,7 @@ const Home = () => {
             className="card-img img-fluid"
             src="https://drive.google.com/file/d/13xeoJQ41KUp8UdsEPicAREHGv6Glllxo/preview"
             alt="Card"
-            height={100}
+            height={300}
           />
         </div>
       </div>
